@@ -1,0 +1,60 @@
+1,2,3,You start walking towards the cottage. Which way do you go?,long way with a nice view,short way that's faster,woodsall
+2,5,3,You hear a sound coming from the bushes. What do you do?,continue walking it's probably nothing,RUN!,bushes
+3,36,4,When you enter the cottage you can hear the backdoor slam. What do you do?,investigate it,ignore it and go have dinner,cottage
+4,9,10,What do you have for dinner?,pizza,spaghetti,foodchoice
+5,6,17,Murderer rolls a rock at you. Bradlei Bob and Sam die. What does Rachel do?,has a snack to calm her nerves,RUN!,rockkill
+6,7,8,A wild dog approaches Rachel and beggs for a snack. What does she do?,push him away,give the good boy a snack,snack
+7,0,0,Murderer attacks Rachel with a baseball bat and kills her,-,-,everyonedead
+8,17,0,Murderer attacks Rachel with a baseball bat but the dog protects her and she runs away.,RUN!,-,dogattack
+9,11,12,After eating everyone goes to unpack. Bob gets stabbed to death and Sam finds his body.,tell others about the body,faint,samfindbob
+10,14,15,Rachel doesn't want spaghetti so she has a burger instead. The spaghetti was poisoned so everyone else dies. What does she do?,go call help,have another burger,poisonfoodburger
+11,51,0,Sam tells others and they decide to run away and get help.,RUN!,-,showothers
+12,13,16,Rachel finds Sam and Bob. What does she do?,Tells Bradlei,use the oportunity to get with Bradlei,rachelfinds
+13,18,21,Rachel and Bradei run to the phone to call help but the murderer catches them and ties them up. Luckily he is lactose intolerant and had some cheese so he has to run to the toilet. What do they do?,wait,try to get the keys,tiedup
+14,0,0,Rachel slips on the banana that the murderer put on the stairs and dies.,-,-,everyonedead
+15,14,17,Rachel hears a sound coming from downstairs. What does she do?,investigates the sound,leaves the house to get to safety,sound
+16,58,20,Rachel aproaches Bradei calls him sempaii and tries to kiss him. What does he do?,runs away from her,tells her that he is gay,flirt
+17,22,23,Rachel got to a bus station but the next bus is coming in a long time. What does she do?,starts walking to the closest town,waits for the bus,busrachel
+18,51,24,Sam wakes up and finds Rachel and Bradlei tied up so she unties them. What do they do?,RUN!,attack the murderer,samhelp
+19,25,26,Bradlei runs into Sam who just woke up. She explains him the situation. What do they do?,Look for Rachel,go call help,stellsb
+20,19,0,Rachel eats cold leftover spaghetti from sadness but the spaghetti was poisoned so she dies. Go see what Bradlei is doing.,Go see Bradlei,-,poisonrachel
+21,0,0,The chairs that they were tied to trip over hit a lantern that breaks and sets the cottage on fire. Everyone burns to death.,-,-,everyonedead
+22,27,17,The murderer attacks Rachel with a sharpened stick. What does she do?,attacks him,runs,murdererstick
+23,0,0,The murderer kills Rachel with a sharpened stick.,-,-,everyonedead
+24,32,32,They found the murderer at the toilet reading a magazine. How do they take him down?,beat him unconcious,tie him up,findmurderer
+25,29,30,They find Rachel dead so they decide to run away. Which path do they take?,the marked path,through the woods,rachelfound
+26,31,28,The murderer finds them. He grabs Sam and puts a pizza cutter to her neck. What does Bradlei do?,fights him,runs away,samdead
+27,0,0,Rachel chops the murderer's head off with her katana. She gets to the town and survives.,-,-,survivedr
+28,0,0,Bradlei escapes from the murderer. He reaches the bus on time and survives.,-,-,survivedb
+29,35,30,Murderer appears with a huge axe. What do they do?,fight him,run into the woods to hide,axemurderer
+30,0,0,Sam and Bradlei got lost in the woods and froze to death. Nobody survived.,-,-,everyonedead
+31,0,0,The murderer is too strong so he kills both Sam and Bradlei. Nobody survived.,-,-,everyonedead
+32,33,34,They want to call help but the murderer cut the phone wire. Who should they send to get help while the others take care of the murderer?,send Rachel,send Sam and Bradlei,phonebroken
+33,0,0,Rachel got help. The police picked up Sam and Bradlei from the cottage and arrested the murderer.,-,-,survivedsbr
+34,29,0,When Sam and Bradlei leave the murderer seduces Rachel into letting him go and kills her by stabbing a straw into her neck.,Go see Bradlei and Sam,-,killsrachel
+35,0,0,Sam and Bradlei overpowered the murderer and killed him with his axe. They got to safety and survived.,-,-,survivedsb
+36,37,38,They find the back door unlocked and there are fresh footprints in the snow. Someone is definitely here with them. What do they do?,lock the door and stay inside,RUN!,backdoorall
+37,4,38,Out of nowhere the electricity stops working. What do you do now?,find some candles and continue setteling down,grab your stuff and leave,dark
+38,39,5,You hear a sound coming from the behind you. What do you do?,run through the woods,continue walking on the path,bushes
+39,41,40,Where do you want to head to?,downhill towards the bus,go left towards the town,woodsall
+40,42,43,You reached the river. Which way do you want to go now?,across the river,follow the river,riverall
+41,59,45,Bob slips falls on a rock and dies. Do you want to change the way you are going?,continue downhill,take a less steep route,rockbob
+42,45,47,The ice breaks under Bob and he drowns. Do you wanna change the way you are going?,continue crossing,Go back and follow the river,drownbob
+43,0,0,You reached the town and everyone survived.,-,-,survivedbrb
+44,0,0,Your jump triggered an avalanche and it killed everyone.,-,-,everyonedead
+45,48,46,You got back to the path. How fast do you want to go?,go fast,go slow,pathbrs
+46,0,0,The murderer found you and sent bunch of human eating geese at you. Everyone got eaten by the geese.,-,-,killergeese
+47,0,0,You reached the town. Bradlei Rachel and Sam survived.,-,-,survivedbbs
+48,49,46,You reached the bus stop but the next bus is in an hour. What do you do?,starts walking to the closest town,wait for the bus,buswaitbrs
+49,50,46,The murderer finds you. What do you do?,fight him,run,townknife
+50,0,0,Rachel pulled out her katana and choped the murderers head off. Sam Bradlei and Rachel then reached the town and survived.,-,-,survivedsbr
+51,52,46,Which way do you want to go?,through the woods,follow the path,cottage
+52,53,48,Should you separate so the faster group can go get help?,yes,no,woodsbrs
+53,0,0,You should never leave your friends behind. Sam and Rachel got lost and froze to death even though Bradlei reached the town and survived.,-,-,survivedb
+54,55,1,Five years after the end of high school Bob organized a reunion to show others how cool he has turned out.,next,skip,bob
+55,56,1,But the problem was...,next,skip,bus
+56,57,1,only 3 of his classmates turned up that were never really close.,next,skip,intro
+57,1,0,So it was really awkward.,next,-,woodsall
+58,16,0,Rachel catches up to Bradlei,try to seduce Bradei again,-,catchbrad
+59,44,60,You get stuck on a cliff. What do you do?,try to jump off,try to climb up,clif
+60,59,0,The mountain is too slippery so you slide back down.,slide,-,slide
