@@ -17,10 +17,7 @@ public class DecisionNode {
 
     public DecisionNode() {}
 
-    public DecisionNode getLinkedNode() {
-        if(linkedNode == null){
-            throw new CustomException("no linked node, node id " + nodeID);
-        }return linkedNode;}
+    public DecisionNode getLinkedNode() { return linkedNode;}
     public void setLinkedNode(DecisionNode linkedNode) {this.linkedNode = linkedNode;}
 
     public int getNodeID() {return nodeID;}

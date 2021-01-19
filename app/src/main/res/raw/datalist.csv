@@ -44,7 +44,7 @@
 40,42,43,You reached the river. Which way do you want to go now?,across the river,follow the river,riverall
 41,59,45,Bob slips falls on a rock and dies. Do you want to change the way you are going?,continue downhill,take a less steep route,rockbob
 42,45,47,The ice breaks under Bob and he drowns. Do you wanna change the way you are going?,continue crossing,Go back and follow the river,drownbob
-43,0,0,You reached the town and everyone survived.,-,-,survivedbrb
+43,0,0,You reached the town and everyone survived.,-,-,survivedsbrb
 44,0,0,Your jump triggered an avalanche and it killed everyone.,-,-,everyonedead
 45,48,46,You got back to the path. How fast do you want to go?,go fast,go slow,pathbrs
 46,0,0,The murderer found you and sent bunch of human eating geese at you. Everyone got eaten by the geese.,-,-,killergeese
